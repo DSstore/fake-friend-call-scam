@@ -1,0 +1,93 @@
+# Complete asset manifest
+
+42 edit segments; 23 distinct generated moving master takes; 9 selected reverse segments; one exact replay; one freeze; one split composition; 7 cards. Final edit is 180 seconds, including 53 seconds of educational ending. Budget providers by source seconds, not edit duration.
+
+## Fixed assets
+
+- Madam Lim neutral identity/home anchor PNG, empty room anchor PNG.
+- Day 3 and Day 4 approved wardrobe stills; every shot still keeps both anchors.
+- Fictional phone UI plates: unknown call; saved original contact; failed call; messages; confirm/success; balance; block confirmation. All are composited large text, no real credentials.
+- Modest family dinner vision with daughter/grandchild.
+- Original ambience loop: HDB room, distant neighbourhood, tea cup.
+- Original incoming two-note ringtone, messaging pulse, transfer chime, failed-call pulse, clock ticks, reverse whoosh; WAV, 48kHz.
+- Music stems: normal/curious, hopeful vision, pressure/tension, hopeful safe ending. Licensed imports for final; original synthetic tones for preview.
+- Four synthetic voice identities, separate cue WAVs.
+- English SRT/ASS and JSON cue catalog; translation template by cue ID. CJK font for Mandarin later.
+- Warning/end-card text plates; split labels; editorial rewind label.
+
+## Per-shot assets
+
+- `assets/images/scene_01_shot_01.png` → `assets/video/scene_01_shot_01.mp4` (3s edit).
+- `assets/images/scene_01_shot_02.png` → `assets/video/scene_01_shot_02.mp4` (6s edit).
+  - `assets/audio/scene_01_shot_02_line_01.wav` — fake_david
+  - `assets/audio/scene_01_shot_02_line_02.wav` — madam_lim
+- `assets/images/scene_01_shot_03.png` → `assets/video/scene_01_shot_03.mp4` (6s edit).
+  - `assets/audio/scene_01_shot_03_line_01.wav` — fake_david
+  - `assets/audio/scene_01_shot_03_line_02.wav` — madam_lim
+  - `assets/audio/scene_01_shot_03_line_03.wav` — fake_david
+- `assets/images/scene_01_shot_04.png` → `assets/video/scene_01_shot_04.mp4` (2s edit).
+- `assets/images/scene_02_shot_01.png` → `assets/video/scene_02_shot_01.mp4` (3.5s edit).
+  - `assets/audio/scene_02_shot_01_line_01.wav` — fake_david
+- `assets/images/scene_02_shot_02.png` → `assets/video/scene_02_shot_02.mp4` (3s edit).
+  - `assets/audio/scene_02_shot_02_line_01.wav` — narrator
+- `assets/images/scene_03_shot_01.png` → `assets/video/scene_03_shot_01.mp4` (6s edit).
+  - `assets/audio/scene_03_shot_01_line_01.wav` — fake_david
+  - `assets/audio/scene_03_shot_01_line_02.wav` — madam_lim
+- `assets/images/scene_03_shot_02.png` → `assets/video/scene_03_shot_02.mp4` (6s edit).
+  - `assets/audio/scene_03_shot_02_line_01.wav` — fake_david
+- `assets/images/scene_04_shot_01.png` → `assets/video/scene_04_shot_01.mp4` (3.75s edit).
+  - `assets/audio/scene_04_shot_01_line_01.wav` — narrator
+- `assets/images/scene_04_shot_02.png` → `assets/video/scene_04_shot_02.mp4` (3s edit).
+  - `assets/audio/scene_04_shot_02_line_01.wav` — fake_david
+- `assets/images/scene_04_shot_03.png` → `assets/video/scene_04_shot_03.mp4` (4s edit).
+- `assets/images/scene_05_shot_01.png` → `assets/video/scene_05_shot_01.mp4` (6s edit).
+  - `assets/audio/scene_05_shot_01_line_01.wav` — fake_david
+  - `assets/audio/scene_05_shot_01_line_02.wav` — madam_lim
+  - `assets/audio/scene_05_shot_01_line_03.wav` — fake_david
+- `assets/images/scene_05_shot_02.png` → `assets/video/scene_05_shot_02.mp4` (4s edit).
+  - `assets/audio/scene_05_shot_02_line_01.wav` — narrator
+- `assets/images/scene_06_shot_01.png` → `assets/video/scene_06_shot_01.mp4` (2.5s edit).
+- `assets/images/scene_06_shot_02.png` → `assets/video/scene_06_shot_02.mp4` (2.5s edit).
+- `assets/images/scene_06_shot_03.png` → `assets/video/scene_06_shot_03.mp4` (2.5s edit).
+- `assets/images/scene_07_shot_01.png` → `assets/video/scene_07_shot_01.mp4` (3s edit).
+- `assets/images/scene_07_shot_02.png` → `assets/video/scene_07_shot_02.mp4` (7s edit).
+  - `assets/audio/scene_07_shot_02_line_01.wav` — madam_lim
+  - `assets/audio/scene_07_shot_02_line_02.wav` — real_david
+  - `assets/audio/scene_07_shot_02_line_03.wav` — madam_lim
+  - `assets/audio/scene_07_shot_02_line_04.wav` — real_david
+- `assets/images/scene_08_shot_01.png` → `assets/video/scene_08_shot_01.mp4` (2s edit).
+- `assets/images/scene_08_shot_02.png` → `assets/video/scene_08_shot_02.mp4` (7s edit).
+  - `assets/audio/scene_08_shot_02_line_01.wav` — narrator
+- `scene_09_shot_01` post-composite (reverse); source: scene_08_shot_01.
+- `scene_09_shot_02` post-composite (reverse); source: scene_06_shot_03.
+- `scene_09_shot_03` post-composite (reverse); source: scene_06_shot_02.
+- `scene_09_shot_04` post-composite (reverse); source: scene_05_shot_02.
+- `scene_09_shot_05` post-composite (reverse); source: scene_04_shot_03.
+- `scene_09_shot_06` post-composite (reverse); source: scene_04_shot_01.
+- `scene_09_shot_07` post-composite (reverse); source: scene_03_shot_02.
+- `scene_09_shot_08` post-composite (reverse); source: scene_02_shot_02.
+- `scene_09_shot_09` post-composite (reverse); source: scene_01_shot_04.
+- `scene_09_shot_10` post-composite (freeze); source: scene_01_shot_02.
+  - `assets/audio/scene_09_shot_10_line_01.wav` — narrator
+  - `assets/audio/scene_09_shot_10_line_02.wav` — narrator
+  - `assets/audio/scene_09_shot_10_line_03.wav` — narrator
+- `scene_09_shot_11` post-composite (card); source: None.
+- `scene_10_shot_01` post-composite (reuse); source: scene_01_shot_02.
+  - `assets/audio/scene_10_shot_01_line_01.wav` — fake_david
+- `assets/images/scene_10_shot_02.png` → `assets/video/scene_10_shot_02.mp4` (5s edit).
+  - `assets/audio/scene_10_shot_02_line_01.wav` — madam_lim
+  - `assets/audio/scene_10_shot_02_line_02.wav` — fake_david
+  - `assets/audio/scene_10_shot_02_line_03.wav` — madam_lim
+- `assets/images/scene_11_shot_01.png` → `assets/video/scene_11_shot_01.mp4` (6s edit).
+  - `assets/audio/scene_11_shot_01_line_01.wav` — madam_lim
+  - `assets/audio/scene_11_shot_01_line_02.wav` — real_david
+- `assets/images/scene_11_shot_02.png` → `assets/video/scene_11_shot_02.mp4` (4s edit).
+  - `assets/audio/scene_11_shot_02_line_01.wav` — narrator
+- `scene_12_shot_01` post-composite (split); source: ['scene_08_shot_02', 'scene_01_shot_01'].
+  - `assets/audio/scene_12_shot_01_line_01.wav` — narrator
+- `scene_13_shot_01` post-composite (card); source: None.
+- `scene_13_shot_02` post-composite (card); source: None.
+- `scene_13_shot_03` post-composite (card); source: None.
+- `scene_13_shot_04` post-composite (card); source: None.
+- `scene_13_shot_05` post-composite (card); source: None.
+- `scene_13_shot_06` post-composite (card); source: None.

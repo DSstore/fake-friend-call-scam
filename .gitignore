@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+assets/video/jobs/
+output/cache/
+output/*.mp4
+output/*.wav
+output/*.concat.txt
+output/*
+!output/.gitkeep

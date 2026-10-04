@@ -1,0 +1,148 @@
+[
+  {
+    "scene_number": 1,
+    "title": "Normal morning",
+    "start": 0,
+    "duration": 17.0,
+    "shots": [
+      "scene_01_shot_01",
+      "scene_01_shot_02",
+      "scene_01_shot_03",
+      "scene_01_shot_04"
+    ]
+  },
+  {
+    "scene_number": 2,
+    "title": "Building trust",
+    "start": 17.0,
+    "duration": 6.5,
+    "shots": [
+      "scene_02_shot_01",
+      "scene_02_shot_02"
+    ]
+  },
+  {
+    "scene_number": 3,
+    "title": "The opportunity",
+    "start": 23.5,
+    "duration": 12.0,
+    "shots": [
+      "scene_03_shot_01",
+      "scene_03_shot_02"
+    ]
+  },
+  {
+    "scene_number": 4,
+    "title": "The moment of temptation",
+    "start": 35.5,
+    "duration": 10.75,
+    "shots": [
+      "scene_04_shot_01",
+      "scene_04_shot_02",
+      "scene_04_shot_03"
+    ]
+  },
+  {
+    "scene_number": 5,
+    "title": "The second request",
+    "start": 46.25,
+    "duration": 10.0,
+    "shots": [
+      "scene_05_shot_01",
+      "scene_05_shot_02"
+    ]
+  },
+  {
+    "scene_number": 6,
+    "title": "Escalation",
+    "start": 56.25,
+    "duration": 7.5,
+    "shots": [
+      "scene_06_shot_01",
+      "scene_06_shot_02",
+      "scene_06_shot_03"
+    ]
+  },
+  {
+    "scene_number": 7,
+    "title": "Reality",
+    "start": 63.75,
+    "duration": 10.0,
+    "shots": [
+      "scene_07_shot_01",
+      "scene_07_shot_02"
+    ]
+  },
+  {
+    "scene_number": 8,
+    "title": "The loss",
+    "start": 73.75,
+    "duration": 9.0,
+    "shots": [
+      "scene_08_shot_01",
+      "scene_08_shot_02"
+    ]
+  },
+  {
+    "scene_number": 9,
+    "title": "Signature rewind",
+    "start": 82.75,
+    "duration": 20.0,
+    "shots": [
+      "scene_09_shot_01",
+      "scene_09_shot_02",
+      "scene_09_shot_03",
+      "scene_09_shot_04",
+      "scene_09_shot_05",
+      "scene_09_shot_06",
+      "scene_09_shot_07",
+      "scene_09_shot_08",
+      "scene_09_shot_09",
+      "scene_09_shot_10",
+      "scene_09_shot_11"
+    ]
+  },
+  {
+    "scene_number": 10,
+    "title": "Alternative decision",
+    "start": 102.75,
+    "duration": 10.0,
+    "shots": [
+      "scene_10_shot_01",
+      "scene_10_shot_02"
+    ]
+  },
+  {
+    "scene_number": 11,
+    "title": "Verification",
+    "start": 112.75,
+    "duration": 10.0,
+    "shots": [
+      "scene_11_shot_01",
+      "scene_11_shot_02"
+    ]
+  },
+  {
+    "scene_number": 12,
+    "title": "Two timelines",
+    "start": 122.75,
+    "duration": 4.25,
+    "shots": [
+      "scene_12_shot_01"
+    ]
+  },
+  {
+    "scene_number": 13,
+    "title": "Educational ending",
+    "start": 127.0,
+    "duration": 53.0,
+    "shots": [
+      "scene_13_shot_01",
+      "scene_13_shot_02",
+      "scene_13_shot_03",
+      "scene_13_shot_04",
+      "scene_13_shot_05",
+      "scene_13_shot_06"
+    ]
+  }
+]

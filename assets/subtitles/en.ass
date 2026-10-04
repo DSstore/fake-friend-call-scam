@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,2,96,96,65,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.10,0:00:06.90,Default,,0,0,0,,Hello! Long time never talk! You really\Ndon't remember me?
+Dialogue: 0,0:00:07.10,0:00:08.70,Default,,0,0,0,,Who is this?
+Dialogue: 0,0:00:09.10,0:00:10.80,Default,,0,0,0,,Aiyoh, cannot recognise?
+Dialogue: 0,0:00:11.00,0:00:12.00,Default,,0,0,0,,Ah... David?
+Dialogue: 0,0:00:12.20,0:00:14.80,Default,,0,0,0,,Yes lah! I changed number.
+Dialogue: 0,0:00:17.10,0:00:20.50,Default,,0,0,0,,Eaten already? How is your family?
+Dialogue: 0,0:00:20.60,0:00:23.45,Default,,0,0,0,,First, they build trust. Money comes\Nlater.
+Dialogue: 0,0:00:23.60,0:00:27.40,Default,,0,0,0,,Early investment allocation. Five thousand\Ntoday; good returns.
+Dialogue: 0,0:00:27.60,0:00:29.30,Default,,0,0,0,,That's a lot.
+Dialogue: 0,0:00:29.60,0:00:35.10,Default,,0,0,0,,I invested too. I remembered you. Must be\Ntoday.
+Dialogue: 0,0:00:35.60,0:00:39.10,Default,,0,0,0,,For a moment, hope becomes stronger than\Ndoubt.
+Dialogue: 0,0:00:39.35,0:00:41.75,Default,,0,0,0,,Don't miss it. Transfer first.
+Dialogue: 0,0:00:46.35,0:00:49.35,Default,,0,0,0,,Three thousand to release funds.
+Dialogue: 0,0:00:49.45,0:00:50.45,Default,,0,0,0,,Another payment?
+Dialogue: 0,0:00:50.55,0:00:52.15,Default,,0,0,0,,Or we lose five thousand.
+Dialogue: 0,0:00:52.35,0:00:56.05,Default,,0,0,0,,Money sent makes walking away harder.
+Dialogue: 0,0:01:06.85,0:01:08.85,Default,,0,0,0,,David, the investment?
+Dialogue: 0,0:01:08.95,0:01:10.05,Default,,0,0,0,,What investment?
+Dialogue: 0,0:01:10.15,0:01:11.45,Default,,0,0,0,,You called me...
+Dialogue: 0,0:01:11.55,0:01:13.55,Default,,0,0,0,,I never called you.
+Dialogue: 0,0:01:15.85,0:01:20.45,Default,,0,0,0,,Years to save. Minutes to lose.
+Dialogue: 0,0:01:33.75,0:01:37.95,Default,,0,0,0,,The scam did not begin when she\Ntransferred the money.
+Dialogue: 0,0:01:38.15,0:01:39.35,Default,,0,0,0,,It began here.
+Dialogue: 0,0:01:39.55,0:01:41.73,Default,,0,0,0,,One different decision could change\Neverything.
+Dialogue: 0,0:01:43.55,0:01:47.70,Default,,0,0,0,,Hello! Long time never talk! You really\Ndon't remember me?
+Dialogue: 0,0:01:47.85,0:01:49.65,Default,,0,0,0,,Tell me your name.
+Dialogue: 0,0:01:49.75,0:01:50.95,Default,,0,0,0,,Cannot remember meh?
+Dialogue: 0,0:01:51.05,0:01:52.55,Default,,0,0,0,,I'll call you back.
+Dialogue: 0,0:01:52.85,0:01:55.75,Default,,0,0,0,,David, did you call from another number?
+Dialogue: 0,0:01:55.95,0:01:58.35,Default,,0,0,0,,No. I didn't call you.
+Dialogue: 0,0:01:58.85,0:02:02.55,Default,,0,0,0,,She stopped, checked, and verified.
+Dialogue: 0,0:02:02.85,0:02:06.85,Default,,0,0,0,,Same call. Same scammer. One different\Ndecision.

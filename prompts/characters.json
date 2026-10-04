@@ -1,0 +1,56 @@
+{
+  "madam_lim": {
+    "age": 70,
+    "description": "Madam Lim, Singaporean Chinese woman aged 70, oval face, gentle dark brown eyes, small mole below left cheekbone, short salt-and-pepper bob tucked behind ears, thin oval silver spectacles, capable independent posture, light peach short-sleeve cotton blouse and dark navy trousers on Day 1 and in the safe replay. Day 3 wears pale blue blouse, Day 4 sage cardigan over pale blue blouse. Plain silver wristwatch, no extravagant jewelry. Maintain identical face and proportions.",
+    "reference_file": "assets/images/references/madam_lim.png",
+    "reference_prompt": "Cinematic photorealistic Singapore anti-scam educational film, 16:9 landscape, eye-level respectful observation, natural skin texture, restrained performance, 35mm lens unless insert, soft window light, believable modest lived-in HDB flat. Same rectangular oak dining table, cream walls, pale green sofa at rear left, white barred window at frame right, orchid and stainless kettle, blue ceramic tea cup. No generated words on screens; leave clean screen area for post-production graphics. Madam Lim, Singaporean Chinese woman aged 70, oval face, gentle dark brown eyes, small mole below left cheekbone, short salt-and-pepper bob tucked behind ears, thin oval silver spectacles, capable independent posture, light peach short-sleeve cotton blouse and dark navy trousers on Day 1 and in the safe replay. Day 3 wears pale blue blouse, Day 4 sage cardigan over pale blue blouse. Plain silver wristwatch, no extravagant jewelry. Maintain identical face and proportions. Day 1 clothing. Medium portrait seated at the dining table, looking beside camera, calm welcoming expression; hands resting naturally. No text. One person only.",
+    "voice": {
+      "speaker": "madam_lim",
+      "provider_voice": "sage",
+      "instructions": "Older Singaporean woman speaking natural Singapore English. Warm, independent and understated. No caricature or exaggerated accent."
+    }
+  },
+  "fake_david": {
+    "age_range": [
+      55,
+      65
+    ],
+    "description": "Offscreen telephone caller only; never reveal a face or operational scam setup.",
+    "voice": {
+      "speaker": "fake_david",
+      "provider_voice": "onyx",
+      "instructions": "Mature male Singapore English, colloquial but not exaggerated. Friendly in early calls; later gently insistent and urgent. No cartoon villain."
+    }
+  },
+  "real_david": {
+    "age_range": [
+      65,
+      72
+    ],
+    "description": "Established friend, heard on original saved number only. Distinct timbre from fake caller.",
+    "voice": {
+      "speaker": "real_david",
+      "provider_voice": "echo",
+      "instructions": "Mature Singaporean man, natural and friendly, briefly confused; distinct from fake David."
+    }
+  },
+  "narrator": {
+    "description": "Calm supportive educational voice.",
+    "voice": {
+      "speaker": "narrator",
+      "provider_voice": "marin",
+      "instructions": "Calm Singapore English narrator, reassuring, clear and measured, serious without fear or blame."
+    }
+  },
+  "home": {
+    "reference_file": "assets/images/references/home.png",
+    "reference_prompt": "Cinematic photorealistic Singapore anti-scam educational film, 16:9 landscape, eye-level respectful observation, natural skin texture, restrained performance, 35mm lens unless insert, soft window light, believable modest lived-in HDB flat. Same rectangular oak dining table, cream walls, pale green sofa at rear left, white barred window at frame right, orchid and stainless kettle, blue ceramic tea cup. No generated words on screens; leave clean screen area for post-production graphics. Wide empty establishing photograph of this exact room, same furniture positions, no people, no text."
+  },
+  "continuity": {
+    "day_1": "Scenes 1, 10, 11, 12 safe side and final: peach blouse; identical first-call frame and ringtone.",
+    "day_3": "Scenes 2–4: pale blue blouse. Trust montage can bridge Day 1 to Day 3.",
+    "day_4": "Scenes 5–8: sage cardigan over blue blouse. Rewind preserves clothing from each source take.",
+    "phone": "Same dark charcoal smartphone with clear plain case. All UI composited later.",
+    "method": "Approve identity and home reference frames once. Use image edits with both anchors; keep fixed seed only when supported. A seed alone does not lock identity. Reject drift before video rendering."
+  }
+}

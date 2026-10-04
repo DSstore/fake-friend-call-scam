@@ -1,0 +1,2 @@
+# No Python packages required for the baseline pipeline (standard library only).
+# System requirement: FFmpeg + FFprobe with libass, drawtext, libx264 and AAC.

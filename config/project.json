@@ -1,0 +1,72 @@
+{
+  "title": "It Began Here — Fake Friend Call Scam",
+  "runtime_seconds": 180.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "preview_width": 960,
+  "preview_height": 540,
+  "preview_fps": 24,
+  "language": "en",
+  "subtitle_language": "en",
+  "font": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "font_size": 44,
+  "card_font_size": 48,
+  "safe_margin": 96,
+  "providers": {
+    "image": "manual",
+    "video": "manual",
+    "voice": "manual",
+    "music": "manual"
+  },
+  "image_model": "gpt-image-1",
+  "voice_model": "gpt-4o-mini-tts",
+  "video_model": "",
+  "video_payload": {},
+  "video_duration_field": "duration",
+  "video_duration_format": "string",
+  "video_prompt_field": "prompt",
+  "video_image_field": "image_url",
+  "video_min_seconds": 5,
+  "video_max_seconds": 10,
+  "video_supported_durations": [
+    5,
+    10
+  ],
+  "reference_seed": 27170,
+  "ledger": {
+    "opening": 42860,
+    "transfers": [
+      5000,
+      3000,
+      22000,
+      2000,
+      4000,
+      6000
+    ],
+    "closing": 860
+  },
+  "rewind_balance_frames": [
+    860,
+    6860,
+    10860,
+    12860,
+    34860,
+    37860,
+    42860
+  ],
+  "final_output": "output/final_video.mp4",
+  "preview_output": "output/animatic.mp4",
+  "music_gain": 0.08,
+  "sfx_gain": 0.12,
+  "voice_gain": 1.0,
+  "official_information": {
+    "url": "https://www.scamshield.gov.sg/",
+    "display_hotline": false
+  },
+  "notes": [
+    "No actual transactions. All screens are fictional educational composites.",
+    "Short rewind edit segments reuse 4–8 second master takes; generated source minimum is model-specific.",
+    "Do not recover loss via real playback reversal. Rewind is a cinematic thought experiment."
+  ]
+}

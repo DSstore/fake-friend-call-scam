@@ -1,0 +1,258 @@
+[
+  {
+    "id": "scene_01_shot_02_line_01",
+    "speaker": "fake_david",
+    "start": 3.1,
+    "end": 6.9,
+    "text": "Hello! Long time never talk! You really don't remember me?",
+    "language": "en"
+  },
+  {
+    "id": "scene_01_shot_02_line_02",
+    "speaker": "madam_lim",
+    "start": 7.1,
+    "end": 8.7,
+    "text": "Who is this?",
+    "language": "en"
+  },
+  {
+    "id": "scene_01_shot_03_line_01",
+    "speaker": "fake_david",
+    "start": 9.1,
+    "end": 10.8,
+    "text": "Aiyoh, cannot recognise?",
+    "language": "en"
+  },
+  {
+    "id": "scene_01_shot_03_line_02",
+    "speaker": "madam_lim",
+    "start": 11.0,
+    "end": 12.0,
+    "text": "Ah... David?",
+    "language": "en"
+  },
+  {
+    "id": "scene_01_shot_03_line_03",
+    "speaker": "fake_david",
+    "start": 12.2,
+    "end": 14.8,
+    "text": "Yes lah! I changed number.",
+    "language": "en"
+  },
+  {
+    "id": "scene_02_shot_01_line_01",
+    "speaker": "fake_david",
+    "start": 17.1,
+    "end": 20.5,
+    "text": "Eaten already? How is your family?",
+    "language": "en"
+  },
+  {
+    "id": "scene_02_shot_02_line_01",
+    "speaker": "narrator",
+    "start": 20.6,
+    "end": 23.45,
+    "text": "First, they build trust. Money comes later.",
+    "language": "en"
+  },
+  {
+    "id": "scene_03_shot_01_line_01",
+    "speaker": "fake_david",
+    "start": 23.6,
+    "end": 27.4,
+    "text": "Early investment allocation. Five thousand today; good returns.",
+    "language": "en"
+  },
+  {
+    "id": "scene_03_shot_01_line_02",
+    "speaker": "madam_lim",
+    "start": 27.6,
+    "end": 29.3,
+    "text": "That's a lot.",
+    "language": "en"
+  },
+  {
+    "id": "scene_03_shot_02_line_01",
+    "speaker": "fake_david",
+    "start": 29.6,
+    "end": 35.1,
+    "text": "I invested too. I remembered you. Must be today.",
+    "language": "en"
+  },
+  {
+    "id": "scene_04_shot_01_line_01",
+    "speaker": "narrator",
+    "start": 35.6,
+    "end": 39.1,
+    "text": "For a moment, hope becomes stronger than doubt.",
+    "language": "en"
+  },
+  {
+    "id": "scene_04_shot_02_line_01",
+    "speaker": "fake_david",
+    "start": 39.35,
+    "end": 41.75,
+    "text": "Don't miss it. Transfer first.",
+    "language": "en"
+  },
+  {
+    "id": "scene_05_shot_01_line_01",
+    "speaker": "fake_david",
+    "start": 46.35,
+    "end": 49.35,
+    "text": "Three thousand to release funds.",
+    "language": "en"
+  },
+  {
+    "id": "scene_05_shot_01_line_02",
+    "speaker": "madam_lim",
+    "start": 49.45,
+    "end": 50.45,
+    "text": "Another payment?",
+    "language": "en"
+  },
+  {
+    "id": "scene_05_shot_01_line_03",
+    "speaker": "fake_david",
+    "start": 50.55,
+    "end": 52.15,
+    "text": "Or we lose five thousand.",
+    "language": "en"
+  },
+  {
+    "id": "scene_05_shot_02_line_01",
+    "speaker": "narrator",
+    "start": 52.35,
+    "end": 56.05,
+    "text": "Money sent makes walking away harder.",
+    "language": "en"
+  },
+  {
+    "id": "scene_07_shot_02_line_01",
+    "speaker": "madam_lim",
+    "start": 66.85,
+    "end": 68.85,
+    "text": "David, the investment?",
+    "language": "en"
+  },
+  {
+    "id": "scene_07_shot_02_line_02",
+    "speaker": "real_david",
+    "start": 68.95,
+    "end": 70.05,
+    "text": "What investment?",
+    "language": "en"
+  },
+  {
+    "id": "scene_07_shot_02_line_03",
+    "speaker": "madam_lim",
+    "start": 70.15,
+    "end": 71.45,
+    "text": "You called me...",
+    "language": "en"
+  },
+  {
+    "id": "scene_07_shot_02_line_04",
+    "speaker": "real_david",
+    "start": 71.55,
+    "end": 73.55,
+    "text": "I never called you.",
+    "language": "en"
+  },
+  {
+    "id": "scene_08_shot_02_line_01",
+    "speaker": "narrator",
+    "start": 75.85,
+    "end": 80.45,
+    "text": "Years to save. Minutes to lose.",
+    "language": "en"
+  },
+  {
+    "id": "scene_09_shot_10_line_01",
+    "speaker": "narrator",
+    "start": 93.75,
+    "end": 97.95,
+    "text": "The scam did not begin when she transferred the money.",
+    "language": "en"
+  },
+  {
+    "id": "scene_09_shot_10_line_02",
+    "speaker": "narrator",
+    "start": 98.15,
+    "end": 99.35,
+    "text": "It began here.",
+    "language": "en"
+  },
+  {
+    "id": "scene_09_shot_10_line_03",
+    "speaker": "narrator",
+    "start": 99.55,
+    "end": 101.73,
+    "text": "One different decision could change everything.",
+    "language": "en"
+  },
+  {
+    "id": "scene_10_shot_01_line_01",
+    "speaker": "fake_david",
+    "start": 103.55,
+    "end": 107.7,
+    "text": "Hello! Long time never talk! You really don't remember me?",
+    "language": "en"
+  },
+  {
+    "id": "scene_10_shot_02_line_01",
+    "speaker": "madam_lim",
+    "start": 107.85,
+    "end": 109.65,
+    "text": "Tell me your name.",
+    "language": "en"
+  },
+  {
+    "id": "scene_10_shot_02_line_02",
+    "speaker": "fake_david",
+    "start": 109.75,
+    "end": 110.95,
+    "text": "Cannot remember meh?",
+    "language": "en"
+  },
+  {
+    "id": "scene_10_shot_02_line_03",
+    "speaker": "madam_lim",
+    "start": 111.05,
+    "end": 112.55,
+    "text": "I'll call you back.",
+    "language": "en"
+  },
+  {
+    "id": "scene_11_shot_01_line_01",
+    "speaker": "madam_lim",
+    "start": 112.85,
+    "end": 115.75,
+    "text": "David, did you call from another number?",
+    "language": "en"
+  },
+  {
+    "id": "scene_11_shot_01_line_02",
+    "speaker": "real_david",
+    "start": 115.95,
+    "end": 118.35,
+    "text": "No. I didn't call you.",
+    "language": "en"
+  },
+  {
+    "id": "scene_11_shot_02_line_01",
+    "speaker": "narrator",
+    "start": 118.85,
+    "end": 122.55,
+    "text": "She stopped, checked, and verified.",
+    "language": "en"
+  },
+  {
+    "id": "scene_12_shot_01_line_01",
+    "speaker": "narrator",
+    "start": 122.85,
+    "end": 126.85,
+    "text": "Same call. Same scammer. One different decision.",
+    "language": "en"
+  }
+]
